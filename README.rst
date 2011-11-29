@@ -10,5 +10,5 @@ Selected tasks in OP will be read by the script, and this data used to create a 
 
 One advanced feature request I can imagine to immediately come up is to find a way to decide between multiple assigned resource names for the swimlane title.
 
-This script has been derived from oo2swimlanes.scpt by the Google user bsnavin. That script
+This script has been derived from oo2swimlanes.scpt by the Google user bsnavin (http://code.google.com/p/oo2swimlanes/source/browse/trunk/src/oo2swimlanes.scpt?spec=svn4&r=4). That script
 went from OmniOutliner to Omnigraffle swimlanes, but I needed it from OmniPlan.
