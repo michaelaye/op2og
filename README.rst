@@ -12,3 +12,5 @@ One advanced feature request I can imagine to immediately come up is to find a w
 
 This script has been derived from oo2swimlanes.scpt by the Google user bsnavin (http://code.google.com/p/oo2swimlanes/). That script
 went from OmniOutliner to Omnigraffle swimlanes, but I needed it to get its data from OmniPlan.
+
+Thanks to the Omni Team for the easy to understand Applescript interface.
